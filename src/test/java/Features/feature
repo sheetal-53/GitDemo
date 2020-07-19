@@ -1,0 +1,11 @@
+Feature: App login
+
+Scenario: Home Page default Login
+
+Given User is on net banking landing page
+
+When User login to application with Username and Password
+
+Then Home Page is displayed
+
+And Cards are displayed
