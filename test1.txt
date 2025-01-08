@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 1626-C57E
+
+ Directory of C:\Users\Dell\Desktop\git
+
+08-01-2025  11:21    <DIR>          .
+07-01-2025  13:37    <DIR>          ..
+07-01-2025  13:55               377 abc.html
+07-01-2025  13:56                12 test.txt
+08-01-2025  11:21                 0 test1.txt
+               3 File(s)            389 bytes
+               2 Dir(s)  84,943,532,032 bytes free
